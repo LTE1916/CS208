@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b06cf02a-e114-4199-9177-697f341e31ea" name="变更" comment="" />
+    <list default="true" id="b06cf02a-e114-4199-9177-697f341e31ea" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jxl_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GS_check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pipei.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SuperRabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/knight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/radonm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CS208.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CS208.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string_permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_permutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tile_rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tile_rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tower_of_Hanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tower_of_Hanoi.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Lnl6Dbz8XLC4WbIjESS3kD5UgR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,13 +44,76 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/1/Desktop/CS208/jxl-2.6.jar&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;库&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GFG" />
+      <module name="CS208" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GS" />
+      <module name="CS208" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GS_check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GS_check" />
+      <module name="CS208" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/out.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunningTimeSurvey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RunningTimeSurvey" />
+      <module name="CS208" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="radonm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <output_file path="C:\Users\1\Desktop\CS208\out.txt" is_save="true" />
+      <option name="MAIN_CLASS_NAME" value="radonm" />
+      <module name="CS208" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.GFG" />
+      <item itemvalue="应用程序.RunningTimeSurvey" />
+      <item itemvalue="应用程序.GS_check" />
+      <item itemvalue="应用程序.GS" />
+      <item itemvalue="应用程序.radonm" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.GFG" />
+        <item itemvalue="应用程序.RunningTimeSurvey" />
+        <item itemvalue="应用程序.GS_check" />
+        <item itemvalue="应用程序.radonm" />
+        <item itemvalue="应用程序.GS" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -31,8 +122,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676514552368</updated>
+      <workItem from="1676514553744" duration="4923000" />
+      <workItem from="1676968349810" duration="303000" />
+      <workItem from="1677121823123" duration="3389000" />
+      <workItem from="1677317878720" duration="7874000" />
+      <workItem from="1677426726962" duration="4290000" />
+      <workItem from="1677573639743" duration="630000" />
+      <workItem from="1677639141951" duration="60000" />
+      <workItem from="1677662294700" duration="1334000" />
+      <workItem from="1677677090038" duration="4666000" />
+      <workItem from="1677723751376" duration="5530000" />
+      <workItem from="1678183742282" duration="291000" />
+      <workItem from="1678329007899" duration="6530000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -44,5 +150,65 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GS.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/radonm.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GS_check.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/GS_check.java</url>
+          <line>100</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/knight.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/knight.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/GS.java</url>
+          <line>15</line>
+          <properties class="GS" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/RunningTimeSurvey.java</url>
+          <line>101</line>
+          <properties class="RunningTimeSurvey" method="linearTime">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CS208$GS.ic" NAME="GS 覆盖结果" MODIFIED="1677678680118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
