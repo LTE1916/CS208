@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b06cf02a-e114-4199-9177-697f341e31ea" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jxl_2_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GS_check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pipei.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SuperRabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/radonm.java" afterDir="false" />
+    <list default="true" id="b06cf02a-e114-4199-9177-697f341e31ea" name="变更" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/Breaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Flow_control.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interval_Scheduling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interval_covering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lhyyy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new_year_call.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/topo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CS208.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CS208.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/string_permutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_permutations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tile_rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tile_rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tower_of_Hanoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tower_of_Hanoi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,62 +47,60 @@
     &quot;project.structure.last.edited&quot;: &quot;库&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="GFG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GFG" />
+  <component name="RunManager" selected="应用程序.Breaker">
+    <configuration name="Breaker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Breaker" />
       <module name="CS208" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GS" />
+    <configuration name="Interval_covering" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interval_covering" />
       <module name="CS208" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GS_check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GS_check" />
-      <module name="CS208" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="$PROJECT_DIR$/out.txt" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RunningTimeSurvey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RunningTimeSurvey" />
+    <configuration name="lhyyyStrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lhyyyStrong" />
       <module name="CS208" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="radonm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <output_file path="C:\Users\1\Desktop\CS208\out.txt" is_save="true" />
-      <option name="MAIN_CLASS_NAME" value="radonm" />
+    <configuration name="new_year_call" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="new_year_call" />
+      <module name="CS208" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="topo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="topo" />
       <module name="CS208" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="应用程序.GFG" />
-      <item itemvalue="应用程序.RunningTimeSurvey" />
-      <item itemvalue="应用程序.GS_check" />
-      <item itemvalue="应用程序.GS" />
-      <item itemvalue="应用程序.radonm" />
+      <item itemvalue="应用程序.Breaker" />
+      <item itemvalue="应用程序.Interval_covering" />
+      <item itemvalue="应用程序.lhyyyStrong" />
+      <item itemvalue="应用程序.topo" />
+      <item itemvalue="应用程序.new_year_call" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.GFG" />
-        <item itemvalue="应用程序.RunningTimeSurvey" />
-        <item itemvalue="应用程序.GS_check" />
-        <item itemvalue="应用程序.radonm" />
-        <item itemvalue="应用程序.GS" />
+        <item itemvalue="应用程序.Breaker" />
+        <item itemvalue="应用程序.Interval_covering" />
+        <item itemvalue="应用程序.lhyyyStrong" />
+        <item itemvalue="应用程序.topo" />
+        <item itemvalue="应用程序.new_year_call" />
       </list>
     </recent_temporary>
   </component>
@@ -133,8 +123,34 @@
       <workItem from="1677677090038" duration="4666000" />
       <workItem from="1677723751376" duration="5530000" />
       <workItem from="1678183742282" duration="291000" />
-      <workItem from="1678329007899" duration="6530000" />
+      <workItem from="1678329007899" duration="7772000" />
+      <workItem from="1678715857080" duration="12000" />
+      <workItem from="1678717199892" duration="8000" />
+      <workItem from="1678771820123" duration="8237000" />
+      <workItem from="1678781195170" duration="4326000" />
+      <workItem from="1678791722805" duration="1222000" />
+      <workItem from="1678935617774" duration="4847000" />
+      <workItem from="1679084846143" duration="9098000" />
+      <workItem from="1679173188205" duration="904000" />
+      <workItem from="1679387290378" duration="10000" />
+      <workItem from="1679398325508" duration="2278000" />
+      <workItem from="1679451284601" duration="431000" />
+      <workItem from="1679541814149" duration="2511000" />
+      <workItem from="1679570606879" duration="1182000" />
+      <workItem from="1679994604312" duration="10548000" />
+      <workItem from="1680027589119" duration="14986000" />
+      <workItem from="1680056603713" duration="597000" />
+      <workItem from="1680111768955" duration="7480000" />
+      <workItem from="1680432803376" duration="9952000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1678336276986</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678336276986</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,7 +168,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -187,6 +204,26 @@
           <line>45</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interval_Scheduling.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/topo.java</url>
+          <line>77</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/apples.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Flow_control.java</url>
+          <line>94</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/GS.java</url>
           <line>15</line>
@@ -207,6 +244,11 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.util.ArrayList" memberName="size" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CS208$GS.ic" NAME="GS 覆盖结果" MODIFIED="1677678680118" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
